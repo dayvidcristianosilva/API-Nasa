@@ -5,7 +5,8 @@ A API que escolhi mostra acontecimentos históricos publicados pela NASA, basta 
 Parâmetro de busca DATE: YYYY-MM-DD; Assim que for digitado o parâmetro, seguindo as instruções abaixo, deve ser mostrada um texto (um texto alternativo) e uma imagem.
 
 Passo a passo:
-Passo 1 - Digite no terminal: "node Node.js", uma mensagem será exibida: Servidor rodando em http://localhost:8080;
-Passo 2 - Abra o seu navegador e coloque na URL: localhost8080;
-Passo 3 -Pense em uma data, e digite no seguinte formato (Ex.): http://localhost:8080/?date=2003-01-20
+Passo 1 - Digite no terminal: "npm install", para instalar as bibliotecas utilizadas no projeto;
+Passo 2 - Digite no terminal: "node apiNasa.js", uma mensagem será exibida: Servidor rodando em http://localhost:8080;
+Passo 3 - Abra o seu navegador e coloque na URL: localhost8080;
+Passo 4 - Pense em uma data, e digite no seguinte formato (Ex.): http://localhost:8080/?date=2003-01-20
 
