@@ -9,4 +9,3 @@ Passo 1 - Digite no terminal: "node Node.js", uma mensagem será exibida: Servid
 Passo 2 - Abra o seu navegador e coloque na URL: localhost8080;
 Passo 3 -Pense em uma data, e digite no seguinte formato (Ex.): http://localhost:8080/?date=2003-01-20
 
-Atividade Requisição em API / IFPEJAB  / Alex Da Silva Castro e Dayvid Cristiano Viana Da Silva.
